@@ -1,17 +1,16 @@
-# Simple Moderation Discord Bot
-------
-This project is a Discord Moderation Bot built for Every Server's needs!
+# Vortex
+[Development Server](https://discord.gg/FpmSJTcR5m)
 
 
+## Discord Moderation Bot
+This template is a Discord-Moderation bot, built buy (TheStealthy `Stealthy#3408`) on Discord, it is open to the public for anyone
+
+## CodeHub Development Bots:
+🌀 [Xtra Bot (Website)](https://xtradbot.glitch.me)  
 
 
-This is just a Simple-Discord Moderaiton bot built for anyone who in which wants to use it, I will continually add commands to this REPO along with making new bots on my Page, so always feel free to use the code, but use it at your own risk(Not saying there is any).
+## How do I report a bug or suggest a feature?
+Feel free to join the [Development Server](https://discord.gg/FpmSJTcR5m) to Suggest/Report a bug to the Development Team, as we will tallk among eachother to discuss your idea/bug!
 
-# Commands:
-------
-ℹ Help - Shows all the commands you can use!\n
-ℹ Ban - Bans a User from the Server.\n
-ℹ Kick - Kicks a User from the Server.\n
-ℹ Lock - Locks the current channel.\n
-ℹ Unlock - Unlocks the current channel.\n
-ℹ Slowmode - Sets the channels slowmode.\n
+## Can I self-host this template?
+I would not reccomment/suggest you do such a thing the code, as it is not my responsibility on how you use the code, so use it at your own risk, If you decide to edit, compile, or use this code in any way, please respect the [license](https://github.com/TheStealthy/ModBot/blob/master/LICENSE.md)
