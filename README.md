@@ -9,9 +9,9 @@ This is just a Simple-Discord Moderaiton bot built for anyone who in which wants
 
 # Commands:
 ------
-Help - Shows all the commands you can use!\n
-Ban - Bans a User from the Server.\n
-Kick - Kicks a User from the Server.\n
-Lock - Locks the current channel.\n
-Unlock - Unlocks the current channel.\n
-Slowmode - Sets the channels slowmode.\n
+ℹ Help - Shows all the commands you can use!\n
+ℹ Ban - Bans a User from the Server.\n
+ℹ Kick - Kicks a User from the Server.\n
+ℹ Lock - Locks the current channel.\n
+ℹ Unlock - Unlocks the current channel.\n
+ℹ Slowmode - Sets the channels slowmode.\n
