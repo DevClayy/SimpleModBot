@@ -1,7 +1,7 @@
 {
-  "name": "simple-discord-bot",
+  "name": "TheStealthy/ModBot",
   "version": "0.0.1",
-  "description": "A simple discord bot, mainly used as a template.",
+  "description": "A simple Discord Moderation Bot.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -13,13 +13,4 @@
   },
   "engines": {
     "node": "12.x"
-  },
-  "repository": "https://github.com/KeemROH-Development/Simple-Discord-Bot/",
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "bot",
-    "discord"
-  ],
-  "author": "repl.it user <replituser@example.com>"
-}
+  }
