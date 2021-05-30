@@ -1,0 +1,25 @@
+{
+  "name": "simple-discord-bot",
+  "version": "0.0.1",
+  "description": "A simple discord bot, mainly used as a template.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "graceful-fs": "^4.2.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": "https://github.com/KeemROH-Development/Simple-Discord-Bot/",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "bot",
+    "discord"
+  ],
+  "author": "repl.it user <replituser@example.com>"
+}
