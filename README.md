@@ -1,4 +1,4 @@
-# Vortex
+# Simple Mod Bot
 [Development Server](https://discord.gg/FpmSJTcR5m)
 
 
