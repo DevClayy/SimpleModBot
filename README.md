@@ -1,5 +1,5 @@
 # Simple Mod Bot
-[Development Server](https://discord.gg/FpmSJTcR5m)
+[Development Server](https://discord.gg/QcTGHv8rGR)
 
 
 ## Discord Moderation Bot
