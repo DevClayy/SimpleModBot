@@ -12,7 +12,7 @@ module.exports = {
       let prefix = config.prefix
     
     if (!message.member.hasPermission("KICK_MEMBERS")) return message.channel.send("**You don't have the permission to preform this action!**");
-            if (!message.guild.me.hasPermission("KICK_MEMBERS")) return message.channel.send("**I Dont Have Permissions To Kick Users! | [KICK_MEMBERS]**");
+            if (!message.guild.me.permissions.has("KICK_MEMBERS")) return message.channel.send("**I Dont Have Permissions To Kick Users! | [KICK_MEMBERS]**");
             if (!args[0]) return message.channel.send('You must mention a `User` to **kick**.')
 
             let banMember = message.mentions.members.first() || message.guild.members.cache.get(args[0]) || message.guild.members.cache.find(r => r.user.username.toLowerCase() === args[0].toLocaleLowerCase()) || message.guild.members.cache.find(ro => ro.displayName.toLowerCase() === args[0].toLocaleLowerCase());
