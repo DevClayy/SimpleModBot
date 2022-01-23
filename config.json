@@ -1,7 +1,7 @@
 {
     "token":"YOUR_BOTS_TOKEN",
-    "prefix":"prefix ",
+    "prefix":"YOUR_BOTS_PREFIX",
     "administrators":[
-        " "
+        "YOUR_USER_ID"
     ]
 }
